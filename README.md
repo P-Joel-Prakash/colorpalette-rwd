@@ -1,5 +1,4 @@
 # RESPONSIVE COLOR PALETTE
-
 Responsive Color Palette
 In this assignment, let's build a Responsive Color Palette by applying the concepts we learned till now.
 
@@ -36,4 +35,4 @@ Extra Large (Size >= 1200px):
 https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/responsive-website/color-palette-xl-v1.png
 
 SITE : https://colourpal.ccbp.tech/
-
+NOTE: To see the response change the zoom size from 100 to 500.
